@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "id": "variables-let",
+      "prompt": "Which keyword creates a binding?",
+      "choices": {
+        "A": "let",
+        "B": "bind",
+        "C": "var",
+        "D": "name"
+      },
+      "correct": "A"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "skill-tree",
+  "name": "Skill Tree",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Track lesson understanding with quizzes and spaced-repetition cards.",
+  "author": "",
+  "isDesktopOnly": false
+}

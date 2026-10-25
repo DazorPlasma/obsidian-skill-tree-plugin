@@ -1,0 +1,8 @@
+/target
+.direnv/
+/result
+/result-*
+/node_modules/
+/plugin/pkg/
+/plugin/main.js
+/plugin/styles.css

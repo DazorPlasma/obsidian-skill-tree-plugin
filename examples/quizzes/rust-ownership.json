@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "id": "ownership-move",
+      "prompt": "Who owns a moved String?",
+      "choices": {
+        "A": "The source binding",
+        "B": "The destination binding",
+        "C": "Both bindings",
+        "D": "Neither binding"
+      },
+      "correct": "B"
+    },
+    {
+      "id": "ownership-stack-heap",
+      "prompt": "Where do a String's bytes live?",
+      "choices": {
+        "A": "In the stack frame",
+        "B": "In a static allocation",
+        "C": "In a heap allocation",
+        "D": "In the type metadata"
+      },
+      "correct": "C"
+    }
+  ]
+}
